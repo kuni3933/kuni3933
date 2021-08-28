@@ -4,10 +4,11 @@
 
 <a href="https://twitter.com/syuilo/status/510444594861842433">from @syuilo</a>
 
-[](## Links
+()[
+## Links
 
-(- <a href="">🐦 Twitter</a>
-)
+- <a href="">🐦 Twitter</a>
+]
 
 Unless otherwise stated, the license for my repository is MIT.
 

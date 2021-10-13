@@ -15,6 +15,8 @@ Unless otherwise stated, the license for my repository is MIT.
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kuni3933&show_icons=true&locale=en&theme=tokyonight" alt="kuni3933" href="" /></p>
-    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuni3933&show_icons=true&theme=tokyonight" alt="kuni3933" href=""/></p>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kuni3933&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="kuni3933" href="" /></p>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuni3933&count_private=true&show_icons=true&theme=tokyonight" alt="kuni3933" href=""/></p>
 </a>

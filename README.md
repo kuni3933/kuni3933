@@ -10,9 +10,11 @@
 - <a href="">🐦 Twitter</a>
 -->
 
+## About My Repos and License
 Unless otherwise stated, the license for my repository is MIT.
 
-## Stats
+
+## Stats & Top Langs
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kuni3933&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="kuni3933" href="" /></p>
